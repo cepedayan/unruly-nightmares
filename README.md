@@ -111,18 +111,23 @@ la predicación con el ejemplo.`
 
 ### Sentence Similarity (google/flan-t5/xxl)
 Human.- `¿Cómo se llama la persona más agradable que conoce?`
+
 Autobiografía.txt.- `Era un amable y jovial filósofo.`
 
 Human.- `¿Cómo se llamaba?`
+
 Autobiografía.txt.- `Se llamaba con un nombre balzaciano, Sebastián Menmolth.`
 
 Human.- `¿Cómo describiría su personalidad?`
+
 Autobiografía.txt.- `Escribía una prosa profusa, llena de vitalidad y de color, de plasticidad y de música.`
 
 Human.- `¿Qué le gusta hacer a usted, además de la escritura?`
+
 Autobiografía.txt.- `Extraña y ardua mezcla de cosas para la cabeza de un niño.`
 
 Human.- `¿Me puede dar un ejemplo?`
+
 Autobiografía.txt.- `¿Para dónde? Para cualquier parte.`
 
 ### Retrieval-Augmented Generation (gpt-3.5-turbo)
