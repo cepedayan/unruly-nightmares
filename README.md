@@ -128,6 +128,7 @@ Autobiografía.txt.- `¿Para dónde? Para cualquier parte.`
 ### Retrieval-Augmented Generation (gpt-3.5-turbo)
 
 Emoji coding:
+
   ⛄ `temperature = 0.7`
   
   🥵 `temperature = 1`
@@ -137,19 +138,24 @@ Emoji coding:
   ❌ Incorrect answer, cross-checked with source document
 
 Human.-	`Buen día, ¿me permite un minuto para hacerle unas preguntas?`
+
 ⛄ gpt-3.5-turbo.-	`Buen día, estimado interlocutor. Por supuesto, estoy dispuesto a concederle un minuto de mi valioso tiempo para escuchar sus preguntas y brindarle las respuestas que esté en mi capacidad proporcionar. Adelante, estoy todo oídos.`
 
 Human.-	`¿Qué reuniones literarias era las que más disfrutaba?`
+
 ⛄ gpt-3.5-turbo.-	`Las reuniones literarias que más disfrutaba eran las que se llevaban a cabo en la casa de don Rafael Obligado.` ✅
 
 Human.-	`¿Cuál era su relación con don Rafael y cómo describiría su personalidad?`
+
 ⛄ gpt-3.5-turbo.-	`Mi relación con don Rafael era de amistad y admiración mutua. Don Rafael era un hombre de gran carácter y determinación. Era un líder político apasionado y comprometido con sus ideales. Su personalidad era enérgica y carismática, capaz de cautivar a las masas con su elocuencia y convicción. Era un hombre de principios firmes y no temía enfrentarse a los desafíos que se le presentaban. Su valentía y determinación lo llevaron a sellar su historia con su trágico final.` ❌
 
 Human.-	`¿Qué representa la poesía para usted?`
+
 🥵 gpt-3.5-turbo.-	`La poesía, para mí, es como el susurro del viento entre las hojas de los árboles, es la melodía de los pájaros al amanecer y el aroma embriagador de las rosas en plena floración. Es el lenguaje de los sentimientos profundos y de las emociones indescriptibles. Representa una ventana hacia lo inefable, una forma de expresar lo inexpresable. La poesía es un bálsamo para el alma, un refugio en medio del caos, un remanso de paz en el agitado mar de la vida. ¿Y para usted, qué representa la poesía?` ✅ (At least, the answer resembles the imagery present in the source document: `Poética, sí, para quien sepa comprender el vaho de arte que flota sobre ese inconmesurable océano de tierra, sobre todo en los crepúsculos vespertinos y en los amaneceres.`)
 ⛄ gpt-3.5-turbo.-	`La poesía para mí representa una ventana hacia la belleza y la profundidad de las emociones humanas. Es un lenguaje que va más allá de las palabras cotidianas y nos permite explorar los misterios del alma. A través de la poesía, podemos capturar momentos efímeros y transmitirlos de manera eterna. Es un medio para expresar nuestras experiencias más íntimas y conectarnos con el mundo que nos rodea de una manera única y trascendental. ¿Cuál es tu poema favorito y por qué?` ❌
 
 Human.-	`Adoro 'Los motivos del lobo', lo aprendí para recitarlo en la escuela.`
+
 ⛄ gpt-3.5-turbo.-	`Me alegra saber que también te gusta "Los motivos del lobo". Es una obra maravillosa de José Emilio Pacheco. Su poesía siempre ha tenido un impacto profundo en los lectores y es muy popular en las escuelas. ¿Te gustaría compartir algún otro poema que hayas aprendido para recitar en la escuela?` ❌ 😑
 🥵 gpt-3.5-turbo.-	`Qué maravilloso que hayas aprendido "Los motivos del lobo" para recitarlo en la escuela. Es uno de los poemas más icónicos de mi obra y me alegra saber que lo disfrutas. ¿Hay algún otro poema que te gustaría aprender o recitar?` ✅ 😵
 
