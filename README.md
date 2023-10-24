@@ -6,6 +6,7 @@ Here’s what the code does:
 * Have a “conversation” with the poet Rubén Darío through his book Autobiografía ([Retrieval-Augmented Generation](https://github.com/cepedayan/unruly-nightmares/blob/main/retrieval_augmented_generation/Retrieval_Augmented_Generation.ipynb)).
 * Find the most similar sentence in any given book and use it to mimic conversation ([Sentence Similarity](https://github.com/cepedayan/unruly-nightmares/blob/main/sentence_similarity/Sentence_Similarity.ipynb)).
 * Replicate some of Gustavo Adolfo Becquer’s most prominent stylistic attributes ([Finetuning & encoding methods for text generation](https://github.com/cepedayan/unruly-nightmares/tree/main/finetuning)).
+
 This project was developed for the KaggleX program. Special thanks to my mentor, Jonathan Schlosser, who not only guided me with their expertise in NLP, but also changed my perspective regarding my career in Data Science and had a tremendous impact on my own personal outlook and capabilities.
 Although a lot more can be done —measure quality and compare model performance with linguistic KPIs, prompt engineering, experiment with number of epochs and track training loss—, this is the start of my journey with NLP.
 
