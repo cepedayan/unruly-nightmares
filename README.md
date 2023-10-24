@@ -47,6 +47,7 @@ Python libraries:
 * operating system (os)
 * regex (re)
 * scikit-learn
+
 NLP techniques:
 * Tokenization
 * Finetuning
@@ -54,16 +55,19 @@ NLP techniques:
 * Decoding methods for text generation
 * Prompt engineering
 * Retrieval-augmented generation
+
 NLP libraries and tools:
 * Transformers (Hugging Face)
 * chromadb
+
 Deep learning and LLM frameworks:
 * Torch
 * TensorFlow
 * LangChain
 * OpenAI API
+
 Others:
-* Handling character encoding standards, ISO-8859-1
+* Character encoding standards
 
 ## Error log
 #pending
