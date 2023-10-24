@@ -12,7 +12,7 @@ This project was developed for the KaggleX program. Special thanks to my mentor,
 Although a lot more can be done —measure quality and compare model performance with linguistic KPIs, prompt engineering, experiment with number of epochs and track training loss—, this is the start of my journey with NLP.
 
 ### Example outputs
-If you prefer to skip directly to the results, see here #pending.
+If you prefer to skip directly to the results, [see here](#output-examples).
 
 ## My experience
 My starting point was a basic knowledge of Python and NLP concepts, and a very keen interest in understanding this marvelous technology. I wanted to learn how LLMs understand natural language, how they process it, and discover practical applications in creative spaces.
