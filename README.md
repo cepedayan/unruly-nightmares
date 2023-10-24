@@ -8,6 +8,7 @@ Here’s what the code does:
 * Replicate some of Gustavo Adolfo Becquer’s most prominent stylistic attributes ([Finetuning & encoding methods for text generation](https://github.com/cepedayan/unruly-nightmares/tree/main/finetuning)).
 
 This project was developed for the KaggleX program. Special thanks to my mentor, Jonathan Schlosser, who not only guided me with their expertise in NLP, but also changed my perspective regarding my career in Data Science and had a tremendous impact on my own personal outlook and capabilities.
+
 Although a lot more can be done —measure quality and compare model performance with linguistic KPIs, prompt engineering, experiment with number of epochs and track training loss—, this is the start of my journey with NLP.
 
 ### Example outputs
@@ -15,6 +16,7 @@ If you prefer to skip directly to the results, see here #pending.
 
 ## My experience
 My starting point was a basic knowledge of Python and NLP concepts, and a very keen interest in understanding this marvelous technology. I wanted to learn how LLMs understand natural language, how they process it, and discover practical applications in creative spaces.
+
 As a Localization Editor for Spanish in the Games industry, I seek to understand how LLMs can aid creative roles such as writers, translators, and editors in their daily tasks, in particular, those that relate to maintaining the voice and style of the brand and ensuring the continuity of characters and lore as valuable intellectual property of a company.
 The questions that prompted this project were:
 * How can LLMs learn stylistic attributes present in reference documents and replicate them in newly generated text?
@@ -23,9 +25,9 @@ The questions that prompted this project were:
 
 ## The datasets
 The following books were downloaded, cleaned, and preprocessed for using in various NLP techniques. (Public domain for their use in the US, gutemberg.org) 
-* Leyendas, cuentos y poemas, by Gustavo Adolfo Bécquer
-* Obras escogidas, by Gustavo Adolfo Bécquer
-* Autobiografía, by Rubén Darío
+* _Leyendas, cuentos y poemas_, by Gustavo Adolfo Bécquer
+* _Obras escogidas_, by Gustavo Adolfo Bécquer
+* _Autobiografía_, by Rubén Darío
   
 ## What I learned:
 * About style ([See code here](https://github.com/cepedayan/unruly-nightmares/tree/main/finetuning)):
