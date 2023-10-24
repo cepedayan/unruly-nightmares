@@ -11,7 +11,7 @@ This project was developed for the KaggleX program. Special thanks to my mentor,
 
 Although a lot more can be done —measure quality and compare model performance with linguistic KPIs, prompt engineering, experiment with number of epochs and track training loss—, this is the start of my journey with NLP.
 
-### Example outputs
+### Output examples
 If you prefer to skip directly to the results, [see here](#output-examples).
 
 ## My experience
@@ -112,13 +112,13 @@ Stylistic attributes that were not replicated:
 
 Model output:
 
-`Mientras flotaban en el aire la luz de la luna. La brisa comenzaba á refrescar el silencio; los árboles se ponían en movimiento. Los pájaros cantaban, á la luz de las lámparas, el viento de un
+> `Mientras flotaban en el aire la luz de la luna. La brisa comenzaba á refrescar el silencio; los árboles se ponían en movimiento. Los pájaros cantaban, á la luz de las lámparas, el viento de un
 recuerdo sobre las hojas que se movían bajo sus pies. Entre tanto, el viento se había hecho más
 poco en el`
 
 Fragment from original book for comparison purposes:
 
-`De todos modos, allá van estas cuartillas, valgan por lo
+> `De todos modos, allá van estas cuartillas, valgan por lo
 que valieren: que si alguien de más conocimientos é importancia,
 una vez apuntada la idea, la desarrolla y prepara la opinión para
 que fructifique, no serán perdidas del todo. Yo, entre tanto, voy á
