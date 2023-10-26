@@ -50,14 +50,16 @@ Python libraries:
 * operating system (os)
 * regex (re)
 * scikit-learn
+* matplotlib
 
-NLP techniques:
+NLP & ML techniques:
 * Tokenization
 * Embeddings
 * Finetuning
 * Decoding methods for text generation
 * Prompt engineering
 * Retrieval-augmented generation
+* Principal Component Analysis
 
 NLP libraries and tools:
 * Transformers (Hugging Face)
