@@ -15,7 +15,7 @@ Although a lot more can be done —measure quality and compare model performance
 If you prefer to skip directly to the results, [see here](https://github.com/cepedayan/unruly-nightmares/blob/main/README.md#output-examples-1).
 
 ## My experience
-My starting point was a basic knowledge of Python and NLP concepts, and a very keen interest in understanding this marvelous technology. I wanted to learn how LLMs understand natural language, how they process it, and discover practical applications in creative spaces.
+My starting point was a fundamental knowledge of Python and NLP concepts, and a very keen interest in understanding this marvelous technology. I wanted to learn how LLMs understand natural language, how they process it, and discover practical applications in creative spaces.
 
 As a Localization Editor for Spanish in the Games industry, I seek to understand how LLMs can aid creative roles such as writers, translators, and editors in their daily tasks, in particular, those that relate to maintaining the voice and style of the brand and ensuring the continuity of characters and lore as valuable intellectual property of a company.
 The questions that prompted this project were:
@@ -39,7 +39,7 @@ The following books were downloaded, cleaned, preprocessed, and used as input to
   * Retrieval-Augmented Generation ([code here](https://github.com/cepedayan/unruly-nightmares/tree/main/retrieval_augmented_generation)) is a really powerful way to answer questions based on documents that are specific to any given task or industry. In combination with a powerful LLM, such as gpt-3.5-turbo, we get a really cool text generator, conversation partner, assistant—whatever we need, just give the instruction in the prompt!— with access to our knowledge repository.
     * Although we should beware of hallucinations—this can be somewhat offset by changing the temperature—, RAG allows us to track answers back to their original source; this is an advantage vs using the typical LLM chat platforms. The cost of embedding source documents and queries is an important consideration that should be weighed against the increase in productivity and resources required.
 * About myself:
-  * I possess the ability to ride steep learning curves—it’s amazing to think that all I knew about NLP at the start of this 3-month journey was a vague idea of what a token was and that ChatGPT was a LLM. :sweat_smile:
+  * I possess the ability to ride steep learning curves in a short period of time—3 months in this case.
   * Resilience is the biggest asset in the face of complicated problems—my ability to find answers and alternative solutions was put to the test after so many errors I had to solve. (See the error log here for your amusement.) #pending
   * NLP requires a combination of creative and logical approach to problems—my preferred type of challenge.
   * I learned to value my skills over knowledge—knowledge can be acquired quickly, but problem-solving and communication is crucial for delivering results.
